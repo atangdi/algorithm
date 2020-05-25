@@ -1,0 +1,21 @@
+# mac
+.DS_Store
+
+# windows
+Desktop.ini
+Thumbs.db
+
+# maven
+target/
+
+# logs
+*.log
+logs
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+.factorypath
